@@ -1,0 +1,11 @@
+Cyberspace is a concept describing a widespread interconnected digital technology.
+ "The expression dates back from the first decade of the diffusion of the internet. 
+ It refers to the online world as a world 'apart', as distinct from everyday reality.
+ In cyberspace people can hide behind fake identities, as in the famous The New Yorker cartoon.
+ " (Delfanti, Arvidsson, 150) The term entered popular culture from science fiction and the arts but 
+ is now used by technology strategists, security professionals, government, military and industry leaders and entrepreneurs
+to describe the domain of the global technology environment, commonly defined as standing for the global network of interdependent
+information technology infrastructures, telecommunications networks and computer processing systems.
+Others consider cyberspace to be just a notional environment in which communication over computer networks occurs.
+The word became popular in the 1990s when the use of the Internet, networking, and digital communication were all growing dramatically; 
+the term cyberspace was able to represent the many new ideas and phenomena that were emerging.
